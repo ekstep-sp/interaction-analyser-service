@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  interaction-analyser:
+    container_name: interaction-analyser-test
+    command: yarn test

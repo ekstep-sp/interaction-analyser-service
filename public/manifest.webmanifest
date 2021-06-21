@@ -1,0 +1,23 @@
+{
+  "name": "interaction-analyser-app",
+  "short_name": "interaction-analyser-app",
+  "theme_color": "#488aff",
+  "background_color": "#488aff",
+  "display": "standalone",
+  "scope": "./",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ]
+}
